@@ -6,3 +6,4 @@ Collection of projects with Python.
 3. Rock Paper Scissors
 4. Choose Your Own Adventure
 5. Password Manager
+6. Hangman

@@ -7,3 +7,4 @@ Collection of projects with Python.
 4. Choose Your Own Adventure
 5. Password Manager
 6. Hangman
+7. Tic Tac Toe
